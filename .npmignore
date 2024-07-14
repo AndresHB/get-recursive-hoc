@@ -1,0 +1,11 @@
+# husky
+#
+.husky/
+
+# node.js
+#
+node_modules/
+
+# src
+#
+src/
