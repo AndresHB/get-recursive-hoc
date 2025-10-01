@@ -1,6 +1,6 @@
 {
   "name": "get-recursive-hoc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A library to create real (Without .map) recursive higher order components (HOCs) in React and React Native.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
